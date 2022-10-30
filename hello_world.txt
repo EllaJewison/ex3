@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Loremipsum dolor sit amet, consectetuer adipiscing elit.  commodo ligula eget dolor.  massa.
+=======
+Loremipsum dolor sit amet, consectetuer adipiscing elit. commodo ligula eget dolor. massa.
+>>>>>>> cab27f6694d572d5b8081a7034181f3c3e60c82b
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Donec quam felis, ultricies nec, pellentesque eu, plouf  pretium quis, sem. Nulla consequat massa quis enim.
-Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Donec quam felis, ultricies nec, pellentesque eu
