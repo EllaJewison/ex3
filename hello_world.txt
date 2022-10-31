@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Loremipsum dolor sit amet, consectetuer adipiscing elit.  commodo ligula eget dolor.  massa.
+Loremipsum Ella's insert dolor sit amet, consectetuer adipiscing elit.  commodo ligula eget dolor.  massa.
 =======
 Loremipsum dolor sit amet, consectetuer adipiscing elit. commodo ligula eget dolor. massa.
 >>>>>>> cab27f6694d572d5b8081a7034181f3c3e60c82b
